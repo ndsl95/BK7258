@@ -1,0 +1,35 @@
+ap0:wb5e_lvg:I(66939):DISPLAY render=77.4 fps sent=77.4 fps dma_avg=10703 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(68945):DISPLAY render=74.2 fps sent=74.2 fps dma_avg=10570 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(70951):DISPLAY render=75.7 fps sent=75.7 fps dma_avg=10598 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(72955):DISPLAY render=78.3 fps sent=78.3 fps dma_avg=10630 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(74958):DISPLAY render=72.3 fps sent=72.3 fps dma_avg=10613 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(76959):DISPLAY render=77.4 fps sent=77.4 fps dma_avg=10670 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(78965):DISPLAY render=74.2 fps sent=74.2 fps dma_avg=10644 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(80971):DISPLAY render=76.2 fps sent=76.2 fps dma_avg=10601 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(82988):DISPLAY render=77.8 fps sent=77.8 fps dma_avg=10636 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(84998):DISPLAY render=72.6 fps sent=72.6 fps dma_avg=10664 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(86999):DISPLAY render=77.4 fps sent=77.4 fps dma_avg=10593 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(89002):DISPLAY render=74.3 fps sent=74.3 fps dma_avg=10597 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(91012):DISPLAY render=76.1 fps sent=76.1 fps dma_avg=10653 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(93017):DISPLAY render=77.8 fps sent=77.8 fps dma_avg=10634 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(95027):DISPLAY render=72.6 fps sent=72.6 fps dma_avg=10657 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(97034):DISPLAY render=77.7 fps sent=77.7 fps dma_avg=10750 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(99035):DISPLAY render=74.4 fps sent=74.4 fps dma_avg=10657 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(101035):DISPLAY render=76.0 fps sent=76.0 fps dma_avg=10717 us dma_max=12 ms

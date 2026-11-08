@@ -1,0 +1,10 @@
+WB5E / BK7258 — ST77916 1.8-inch round QSPI display
+
+360x360 RGB565, four data lines, 80 MHz QSPI, LVGL 9 HyperX dashboard.
+Validated rendering and completed transfers: 72–79 fps.
+
+Documentation and build instructions: doc/README.md
+Display recovery report: doc/display-recovery-20261108/恢复与帧率验证.md
+
+The upstream SDK, toolchains, local Wi-Fi credentials, and private firmware
+are intentionally excluded. See doc/README.md to prepare the SDK and build.

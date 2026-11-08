@@ -1,0 +1,15 @@
+ap0:wb5e_lvg:I(12804):DISPLAY render=78.9 fps sent=78.9 fps dma_avg=10628 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(14809):DISPLAY render=72.3 fps sent=72.3 fps dma_avg=10627 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(16809):DISPLAY render=77.0 fps sent=77.0 fps dma_avg=10610 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(18822):DISPLAY render=74.5 fps sent=74.5 fps dma_avg=10666 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(20826):DISPLAY render=75.8 fps sent=75.8 fps dma_avg=10657 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(22826):DISPLAY render=79.0 fps sent=79.0 fps dma_avg=10607 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(24837):DISPLAY render=72.1 fps sent=72.1 fps dma_avg=10703 us dma_max=12 ms
+
+ap0:wb5e_lvg:I(26840):DISPLAY render=77.3 fps sent=77.3 fps dma_avg=10619 us dma_max=12 ms
