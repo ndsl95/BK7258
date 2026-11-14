@@ -1,0 +1,284 @@
+{
+  "schematic_parts": 81,
+  "pcb_parts": 81,
+  "pads": 370,
+  "net_or_footprint_differences": [],
+  "pcb_unchanged_during_export": true,
+  "native_archive_documents": {
+    "SCH_PAGE": {
+      "local_objects": 3108,
+      "archive_objects": 3403,
+      "different_shared_objects_by_type": {
+        "ATTR": 356,
+        "COMPONENT": 2
+      },
+      "local_only_by_type": {},
+      "archive_only_by_type": {
+        "ELE_PLACEHOLDER": 290,
+        "META": 1,
+        "LINE": 4
+      }
+    },
+    "PCB": {
+      "local_objects": 2016,
+      "archive_objects": 2492,
+      "different_shared_objects_by_type": {
+        "PRIMITIVE": 41,
+        "LINE": 12
+      },
+      "local_only_by_type": {
+        "RULE_SELECTOR": 61,
+        "LAYER": 27,
+        "PRIMITIVE": 5
+      },
+      "archive_only_by_type": {
+        "LAYER": 200,
+        "ELE_PLACEHOLDER": 359,
+        "PRIMITIVE": 8,
+        "META": 1,
+        "POURED": 1
+      }
+    }
+  },
+  "strict_pcb_errors": 0,
+  "schematic_rules": {
+    "NETOBJECTONGRID": 174,
+    "ATTRMATCHCODE": 2,
+    "CHECKFLOATPIN": 1
+  },
+  "board_center": [
+    50.8,
+    50.8
+  ],
+  "board_diameter": 46.4,
+  "plated_drills": 96,
+  "checked_named_pads": 302,
+  "named_nets": 61,
+  "named_pads_not_in_flying_probe": [],
+  "shorts": [],
+  "named_nets_split": {},
+  "pads_no_single_copper_island": [],
+  "antenna_copper_mm2": {
+    "1": 0.0,
+    "15": 0.0,
+    "16": 0.0,
+    "2": 0.0
+  },
+  "outside_board_copper_mm2": {
+    "1": 0.0,
+    "15": 0.0,
+    "16": 0.0,
+    "2": 0.0
+  },
+  "npth": [
+    {
+      "center": [
+        33.68949,
+        47.65599
+      ],
+      "diameter": 0.64999,
+      "board_edge": 5.478,
+      "copper": {
+        "1": 0.1751,
+        "15": 0.2564,
+        "16": 0.2564,
+        "2": 0.3234
+      }
+    },
+    {
+      "center": [
+        33.68949,
+        53.43601
+      ],
+      "diameter": 0.64999,
+      "board_edge": 5.5626,
+      "copper": {
+        "1": 0.1751,
+        "15": 0.2564,
+        "16": 0.2564,
+        "2": 0.2564
+      }
+    },
+    {
+      "center": [
+        68.02196,
+        53.79999
+      ],
+      "diameter": 1.6,
+      "board_edge": 4.9187,
+      "copper": {
+        "1": 0.2564,
+        "15": 0.2564,
+        "16": 0.2564,
+        "2": 0.2564
+      }
+    },
+    {
+      "center": [
+        68.02196,
+        47.80001
+      ],
+      "diameter": 1.6,
+      "board_edge": 4.9187,
+      "copper": {
+        "1": 0.2564,
+        "15": 0.2564,
+        "16": 0.2564,
+        "2": 0.2564
+      }
+    },
+    {
+      "center": [
+        60.579,
+        32.766
+      ],
+      "diameter": 2.4,
+      "board_edge": 1.4853,
+      "copper": {
+        "1": 0.2563,
+        "15": 0.2563,
+        "16": 0.2563,
+        "2": 0.2563
+      }
+    },
+    {
+      "center": [
+        63.5,
+        66.675
+      ],
+      "diameter": 2.4,
+      "board_edge": 1.6701,
+      "copper": {
+        "1": 0.2563,
+        "15": 0.2563,
+        "16": 0.2563,
+        "2": 0.2563
+      }
+    },
+    {
+      "center": [
+        32.258,
+        40.64
+      ],
+      "diameter": 2.4,
+      "board_edge": 0.8569,
+      "copper": {
+        "1": 0.2563,
+        "15": 0.2563,
+        "16": 0.2563,
+        "2": 0.2563
+      }
+    }
+  ],
+  "new_pad_openings": {
+    "U8": {
+      "12": {
+        "paste": true,
+        "mask": true
+      },
+      "11": {
+        "paste": true,
+        "mask": true
+      },
+      "10": {
+        "paste": true,
+        "mask": true
+      },
+      "9": {
+        "paste": true,
+        "mask": true
+      },
+      "8": {
+        "paste": true,
+        "mask": true
+      },
+      "7": {
+        "paste": true,
+        "mask": true
+      },
+      "6": {
+        "paste": true,
+        "mask": true
+      },
+      "5": {
+        "paste": true,
+        "mask": true
+      },
+      "4": {
+        "paste": true,
+        "mask": true
+      },
+      "3": {
+        "paste": true,
+        "mask": true
+      },
+      "2": {
+        "paste": true,
+        "mask": true
+      },
+      "1": {
+        "paste": true,
+        "mask": true
+      }
+    },
+    "U9": {
+      "1": {
+        "paste": true,
+        "mask": true
+      },
+      "2": {
+        "paste": true,
+        "mask": true
+      },
+      "3": {
+        "paste": true,
+        "mask": true
+      },
+      "4": {
+        "paste": true,
+        "mask": true
+      }
+    },
+    "C26": {
+      "2": {
+        "paste": true,
+        "mask": true
+      },
+      "1": {
+        "paste": true,
+        "mask": true
+      }
+    },
+    "C27": {
+      "2": {
+        "paste": true,
+        "mask": true
+      },
+      "1": {
+        "paste": true,
+        "mask": true
+      }
+    },
+    "C28": {
+      "2": {
+        "paste": true,
+        "mask": true
+      },
+      "1": {
+        "paste": true,
+        "mask": true
+      }
+    },
+    "C29": {
+      "1": {
+        "paste": true,
+        "mask": true
+      },
+      "2": {
+        "paste": true,
+        "mask": true
+      }
+    }
+  },
+  "gerber_sha256": "f1d177842462f0a3b5d05077acfb3128b2a3b3a602f28e6267e2467fef52a184"
+}

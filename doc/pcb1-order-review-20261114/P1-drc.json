@@ -1,0 +1,2319 @@
+[
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e100",
+    "sheet": "a443500bf5864950",
+    "name": "J5"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e129",
+    "sheet": "a443500bf5864950",
+    "name": "R5"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4921cf83115d4215",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "12d163a83d894205",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "150a5718a47f492d",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4624f824ff674370",
+    "sheet": "a443500bf5864950",
+    "name": "BK_CEN"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "58753c3b055b4578",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f082b25836b74812",
+    "sheet": "a443500bf5864950",
+    "name": "VIN_5V"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "2e8e616db16c4ab1",
+    "sheet": "a443500bf5864950",
+    "name": "BUCK_SW"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "04aed999bcb64f35",
+    "sheet": "a443500bf5864950",
+    "name": "VIN_5V"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d5ff756de0174ffd",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "da9b4a314f584810",
+    "sheet": "a443500bf5864950",
+    "name": "BL_GATE"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "61e6135a4af34408",
+    "sheet": "a443500bf5864950",
+    "name": "BL_SW"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "17764905ea6549bd",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "fd8acdd2d3ae4ca4",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f5cf117188ed405c",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "2bd5c41c608c4ae3",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "0a5c3dd04d3144b6",
+    "sheet": "a443500bf5864950",
+    "name": "USB_VBUS_SENSE"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "06e61e4107194fa5",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "bf36411c5297434e",
+    "sheet": "a443500bf5864950",
+    "name": "USB_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "ee726d3808ca4791",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "21a5cc2caece4c32",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_SCK"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "a04db48af66c46aa",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "ba64c6bbb11e4a30",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D0"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "ae5b07f08d4a4b42",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D1"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "5b356248329842db",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D2"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d7cabbd94eea4486",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4920ad61f74644ce",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_RST_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "8056bad256a442c6",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_BL_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "5bd9bded02cc4dae",
+    "sheet": "a443500bf5864950",
+    "name": "TP_SCL"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "39515aa928d44e63",
+    "sheet": "a443500bf5864950",
+    "name": "TP_SDA"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "56c6b662c7764a60",
+    "sheet": "a443500bf5864950",
+    "name": "TP_RST_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "34525a8b0d804b85",
+    "sheet": "a443500bf5864950",
+    "name": "TP_INT"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f8474f7a5f764259",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_SCK"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "950ed449c1f54248",
+    "sheet": "a443500bf5864950",
+    "name": "NAND_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "16d9f7bcdc634b8d",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_MOSI"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "bdc621a59c964dc2",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_MISO"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4b40ae2481bf4a3a",
+    "sheet": "a443500bf5864950",
+    "name": "UART_BR_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "14d1bd7507554c86",
+    "sheet": "a443500bf5864950",
+    "name": "UART_BR_IRQ_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "804185edd9cb49ac",
+    "sheet": "a443500bf5864950",
+    "name": "BK_UART2_RX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4aafcbb37efb4227",
+    "sheet": "a443500bf5864950",
+    "name": "BK_UART2_TX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "b8af20ec5d334dd8",
+    "sheet": "a443500bf5864950",
+    "name": "UART0_RX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "adb850418cbe4d3b",
+    "sheet": "a443500bf5864950",
+    "name": "UART0_TX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "3571c518ab644f57",
+    "sheet": "a443500bf5864950",
+    "name": "BK_CEN"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "6e77e92b73c341e7",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "3e5bef4256ef4c8c",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "ed086f64b9004355",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d2177fecfe434fa3",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "8eb37ae9b58f480c",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e7b5db39ad7d4f92",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "18e08874d703448a",
+    "sheet": "a443500bf5864950",
+    "name": "BK_CEN"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "955ae08b35ee46a1",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_LEDA"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "9414c7857633456d",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f1a3262e7d564c80",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "2a288498cba845fc",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "78beae0433e14909",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "5ffef1a3745641a9",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "58531aea0af54733",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D2"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e1bd1dff5ca34bd5",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D1"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "aefca9b79a88417e",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_D0"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "ebf541ca3b8d4ee9",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_SCK"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f131915a9b05427d",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_RST_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "928e7969f8644ff5",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "7d36ae0a23a54a03",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "0f2b1a0cc04f451e",
+    "sheet": "a443500bf5864950",
+    "name": "TP_SCL"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "955a64e6a51943b0",
+    "sheet": "a443500bf5864950",
+    "name": "TP_SDA"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "8f7a5396c9324b48",
+    "sheet": "a443500bf5864950",
+    "name": "TP_RST_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f3fbbdf222de4234",
+    "sheet": "a443500bf5864950",
+    "name": "TP_INT"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "c5e185984e384e10",
+    "sheet": "a443500bf5864950",
+    "name": "UART_BR_IRQ_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "c83f7079d75f443e",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "734a14a3c76e4869",
+    "sheet": "a443500bf5864950",
+    "name": "NAND_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "b4be73b1d4164a03",
+    "sheet": "a443500bf5864950",
+    "name": "NAND_WP_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "ff95a39ea8a5439c",
+    "sheet": "a443500bf5864950",
+    "name": "NAND_HOLD_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "49f08701332c41ef",
+    "sheet": "a443500bf5864950",
+    "name": "LCD_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "c4f10c69d9e64207",
+    "sheet": "a443500bf5864950",
+    "name": "UART_BR_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f123228cb5294112",
+    "sheet": "a443500bf5864950",
+    "name": "UART2_RX_IC"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d54cdc0e7b8748c6",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e61b77cb66e9433b",
+    "sheet": "a443500bf5864950",
+    "name": "PWR_GOOD"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e8fcc44f34e24c7a",
+    "sheet": "a443500bf5864950",
+    "name": "TP_SCL"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4f8e0813326143f9",
+    "sheet": "a443500bf5864950",
+    "name": "TP_SDA"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "68d39132221d48e9",
+    "sheet": "a443500bf5864950",
+    "name": "UART_BR_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "50b4396b6f9f4eea",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_CLK"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "0952ffb8a20f4aca",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_MOSI"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "6f7087a40f35473c",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_MISO"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "c16d83ec2ffb4b99",
+    "sheet": "a443500bf5864950",
+    "name": "UART_BR_IRQ_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "271817ad376c44bb",
+    "sheet": "a443500bf5864950",
+    "name": "PWR_GOOD"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "338d127ab5df442d",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "aa456e3ec4db44e6",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "2108ca8a05f54d8b",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "29b072eb041847ec",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "af4d62a090b342ac",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "2e6c67bdcccb4bd0",
+    "sheet": "a443500bf5864950",
+    "name": "UART2_TX_IC"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "11889accf3d44066",
+    "sheet": "a443500bf5864950",
+    "name": "UART2_RX_IC"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "94b1a4a8920b413f",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "7a8440ec8a1444c9",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "b299ea835315491a",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f77563dc56904e7e",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "7965277c0c3747fb",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "8903195fc7f44026",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "c2eeca2b8a4a4657",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "7f88543379c74fba",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "40fe2b950e3e4eac",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "7d864551063e4f2c",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "49457c92fd3b4eb7",
+    "sheet": "a443500bf5864950",
+    "name": "USB_VBUS"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "950ad5eeb4134fb8",
+    "sheet": "a443500bf5864950",
+    "name": "USB_CC1"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "404671ac1ef64a15",
+    "sheet": "a443500bf5864950",
+    "name": "USB_DP"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "60bb63a5e2a94b91",
+    "sheet": "a443500bf5864950",
+    "name": "USB_DM"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4c0f088fd78241ee",
+    "sheet": "a443500bf5864950",
+    "name": "USB_CC2"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "13734c26545f4bbb",
+    "sheet": "a443500bf5864950",
+    "name": "USB_DP"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "3d661c2b99dd4512",
+    "sheet": "a443500bf5864950",
+    "name": "USB_DM"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "8033fb70d8224ab7",
+    "sheet": "a443500bf5864950",
+    "name": "USB_VBUS"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "5df693d4b19b46c3",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "a292d212dad74306",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e6cdb72ce8134283",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "6c600de43d5149e6",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "dbf1b9a09c88468a",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "1b669500cabe43be",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "186da6d74d694e37",
+    "sheet": "a443500bf5864950",
+    "name": "USB_DP"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "628b83da4dff48d5",
+    "sheet": "a443500bf5864950",
+    "name": "USB_DM"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "eadf7448c0ab41cc",
+    "sheet": "a443500bf5864950",
+    "name": "USB_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "104e073559b6446b",
+    "sheet": "a443500bf5864950",
+    "name": "USB_VBUS"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "f8668106b65049c0",
+    "sheet": "a443500bf5864950",
+    "name": "USB_VBUS_SENSE"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e935e53f6e7b4463",
+    "sheet": "a443500bf5864950",
+    "name": "USB_RST_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "7ad240d3b3934e2c",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "5e715666363747b9",
+    "sheet": "a443500bf5864950",
+    "name": "USB_UART_RX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4c699b9b14e145e1",
+    "sheet": "a443500bf5864950",
+    "name": "USB_UART_TX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "af144bc040a540fc",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "a06b1a51a1b9412e",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "0fafdedca4564978",
+    "sheet": "a443500bf5864950",
+    "name": "UART0_TX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "e3345072c48a4104",
+    "sheet": "a443500bf5864950",
+    "name": "USB_TO_BK_RX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d952c946734d48a8",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "1fc3a881e94a423d",
+    "sheet": "a443500bf5864950",
+    "name": "USB_UART_TX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "71504b66205944be",
+    "sheet": "a443500bf5864950",
+    "name": "USB_UART_RX"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "3ed9b4e2421f492e",
+    "sheet": "a443500bf5864950",
+    "name": "USB_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "a013352e37ae4317",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "371b3e424f7444e4",
+    "sheet": "a443500bf5864950",
+    "name": "USB_CC1"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "6b0a3027a53c47b6",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d1d143a239f34619",
+    "sheet": "a443500bf5864950",
+    "name": "USB_CC2"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "583717c90260487a",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "73c9651a224946c8",
+    "sheet": "a443500bf5864950",
+    "name": "USB_VBUS"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "fc9accd302dc48bb",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "5694b1ed12fd4d08",
+    "sheet": "a443500bf5864950",
+    "name": "USB_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "0920224939734a87",
+    "sheet": "a443500bf5864950",
+    "name": "USB_RST_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "09220e055a1d4d92",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d353c4cb492142de",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "a9798ec1f01c4456",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "ce5ee10f1cce4717",
+    "sheet": "a443500bf5864950",
+    "name": "USB_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "6dc02dfac82a4d4f",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "2dbb82c1bc674af4",
+    "sheet": "a443500bf5864950",
+    "name": "PWR_GOOD"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "14a764809efc4aaa",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "13c7a9079d1b4c04",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "3b6900cf0f2c44cd",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "4540220945b04adf",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "7498123063ac4a8c",
+    "sheet": "a443500bf5864950",
+    "name": "BUCK_SS"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "b11c71492f4d4523",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "0f9b1332acf54ecf",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "83446d5800594a05",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "77cd7ca9ca28427e",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "76041705a79f4323",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "935c50aed6ad4d8c",
+    "sheet": "a443500bf5864950",
+    "name": "BUCK_SS"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d94aede482a04b99",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "fb5d70a5a4db4df1",
+    "sheet": "a443500bf5864950",
+    "name": "VIN_5V"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "c1faf24a27f44c37",
+    "sheet": "a443500bf5864950",
+    "name": "J1_5V"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "d09d826bd7624444",
+    "sheet": "a443500bf5864950",
+    "name": "MUX_PR1"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "8a9f395756184984",
+    "sheet": "a443500bf5864950",
+    "name": "J1_5V"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "756cbbbaf5b44360",
+    "sheet": "a443500bf5864950",
+    "name": "USB_VBUS"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "da92326cf1974e74",
+    "sheet": "a443500bf5864950",
+    "name": "VIN_5V"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "55a5e5b3af1f517d",
+    "sheet": "a443500bf5864950",
+    "name": "NAND_CS_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "c9763144ed99c421",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_MISO"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "cd300394e9dd3de4",
+    "sheet": "a443500bf5864950",
+    "name": "NAND_WP_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "6465b0bdc47c2a9e",
+    "sheet": "a443500bf5864950",
+    "name": "GND"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "61d9637ebcc53d7f",
+    "sheet": "a443500bf5864950",
+    "name": "VDD_3V3"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "587afe63a4180b85",
+    "sheet": "a443500bf5864950",
+    "name": "NAND_HOLD_N"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "NETOBJECTONGRID",
+  "primitives": [
+   {
+    "primitiveId": "88d2b5b1d9f6a6c2",
+    "sheet": "a443500bf5864950",
+    "name": "SPI0_MOSI"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "ATTRMATCHCODE",
+  "primitives": [
+   {
+    "primitiveId": "e21",
+    "sheet": "a443500bf5864950",
+    "name": "C1($1I3)"
+   },
+   {
+    "primitiveId": "e31",
+    "sheet": "a443500bf5864950",
+    "name": "C2($1I4)"
+   },
+   {
+    "primitiveId": "e41",
+    "sheet": "a443500bf5864950",
+    "name": "R1($1I5)"
+   },
+   {
+    "primitiveId": "e60",
+    "sheet": "a443500bf5864950",
+    "name": "R2($1I7)"
+   },
+   {
+    "primitiveId": "e119",
+    "sheet": "a443500bf5864950",
+    "name": "R4($1I13)"
+   },
+   {
+    "primitiveId": "e129",
+    "sheet": "a443500bf5864950",
+    "name": "R5($1I14)"
+   },
+   {
+    "primitiveId": "e139",
+    "sheet": "a443500bf5864950",
+    "name": "R6($1I15)"
+   },
+   {
+    "primitiveId": "e149",
+    "sheet": "a443500bf5864950",
+    "name": "C3($1I16)"
+   },
+   {
+    "primitiveId": "e170",
+    "sheet": "a443500bf5864950",
+    "name": "R7($1I18)"
+   },
+   {
+    "primitiveId": "e180",
+    "sheet": "a443500bf5864950",
+    "name": "R8($1I19)"
+   },
+   {
+    "primitiveId": "e190",
+    "sheet": "a443500bf5864950",
+    "name": "R9($1I20)"
+   },
+   {
+    "primitiveId": "e200",
+    "sheet": "a443500bf5864950",
+    "name": "R10($1I21)"
+   },
+   {
+    "primitiveId": "e210",
+    "sheet": "a443500bf5864950",
+    "name": "C4($1I22)"
+   },
+   {
+    "primitiveId": "e220",
+    "sheet": "a443500bf5864950",
+    "name": "C5($1I23)"
+   },
+   {
+    "primitiveId": "e231",
+    "sheet": "a443500bf5864950",
+    "name": "R11($1I24)"
+   },
+   {
+    "primitiveId": "e241",
+    "sheet": "a443500bf5864950",
+    "name": "R12($1I25)"
+   },
+   {
+    "primitiveId": "e251",
+    "sheet": "a443500bf5864950",
+    "name": "R13($1I26)"
+   },
+   {
+    "primitiveId": "e301",
+    "sheet": "a443500bf5864950",
+    "name": "C8($1I31)"
+   },
+   {
+    "primitiveId": "e311",
+    "sheet": "a443500bf5864950",
+    "name": "R14($1I32)"
+   },
+   {
+    "primitiveId": "e321",
+    "sheet": "a443500bf5864950",
+    "name": "R15($1I33)"
+   },
+   {
+    "primitiveId": "e331",
+    "sheet": "a443500bf5864950",
+    "name": "R16($1I34)"
+   },
+   {
+    "primitiveId": "e341",
+    "sheet": "a443500bf5864950",
+    "name": "R17($1I35)"
+   },
+   {
+    "primitiveId": "e351",
+    "sheet": "a443500bf5864950",
+    "name": "R18($1I36)"
+   },
+   {
+    "primitiveId": "e479",
+    "sheet": "a443500bf5864950",
+    "name": "R22($1I49)"
+   },
+   {
+    "primitiveId": "6cfd82f54d3ce1c0",
+    "sheet": "a443500bf5864950",
+    "name": "R23($1I54)"
+   },
+   {
+    "primitiveId": "ecbbad86097fc0f2",
+    "sheet": "a443500bf5864950",
+    "name": "R24($1I55)"
+   },
+   {
+    "primitiveId": "cfecd7a5b22f41d8",
+    "sheet": "a443500bf5864950",
+    "name": "R25($1I56)"
+   },
+   {
+    "primitiveId": "5e203fc911700525",
+    "sheet": "a443500bf5864950",
+    "name": "R26($1I57)"
+   },
+   {
+    "primitiveId": "6d09bcd13bb00780",
+    "sheet": "a443500bf5864950",
+    "name": "R27($1I58)"
+   },
+   {
+    "primitiveId": "af7ce8323e866bb7",
+    "sheet": "a443500bf5864950",
+    "name": "R28($1I59)"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "ATTRMATCHCODE",
+  "primitives": [
+   {
+    "primitiveId": "f45b414ec21ec7b1",
+    "sheet": "a443500bf5864950",
+    "name": "C16($1I60)"
+   },
+   {
+    "primitiveId": "45c62a649d9e9125",
+    "sheet": "a443500bf5864950",
+    "name": "C17($1I61)"
+   },
+   {
+    "primitiveId": "361d85b36d39f657",
+    "sheet": "a443500bf5864950",
+    "name": "C18($1I62)"
+   },
+   {
+    "primitiveId": "732ac30f515f0bab",
+    "sheet": "a443500bf5864950",
+    "name": "R29($1I70)"
+   },
+   {
+    "primitiveId": "82a07b93cc15c5ed",
+    "sheet": "a443500bf5864950",
+    "name": "R30($1I71)"
+   },
+   {
+    "primitiveId": "0cefe3cab52f95d7",
+    "sheet": "a443500bf5864950",
+    "name": "R31($1I72)"
+   },
+   {
+    "primitiveId": "788c385756af6154",
+    "sheet": "a443500bf5864950",
+    "name": "R32($1I73)"
+   },
+   {
+    "primitiveId": "0e12e4dc51b5e841",
+    "sheet": "a443500bf5864950",
+    "name": "R33($1I74)"
+   },
+   {
+    "primitiveId": "9e6d8a9409484a60",
+    "sheet": "a443500bf5864950",
+    "name": "R34($1I75)"
+   },
+   {
+    "primitiveId": "662c231337c69ae3",
+    "sheet": "a443500bf5864950",
+    "name": "R35($1I76)"
+   },
+   {
+    "primitiveId": "3c52b508a01d9588",
+    "sheet": "a443500bf5864950",
+    "name": "C19($1I77)"
+   },
+   {
+    "primitiveId": "210a55649e378ee5",
+    "sheet": "a443500bf5864950",
+    "name": "C20($1I78)"
+   },
+   {
+    "primitiveId": "7f4b9f354cd531e4",
+    "sheet": "a443500bf5864950",
+    "name": "C21($1I79)"
+   },
+   {
+    "primitiveId": "b3a5813d544b3085",
+    "sheet": "a443500bf5864950",
+    "name": "C22($1I80)"
+   },
+   {
+    "primitiveId": "95efd638d4b48ab8",
+    "sheet": "a443500bf5864950",
+    "name": "C23($1I81)"
+   },
+   {
+    "primitiveId": "a4909e196939342f",
+    "sheet": "a443500bf5864950",
+    "name": "C24($1I82)"
+   },
+   {
+    "primitiveId": "6f549f8a3bec3230",
+    "sheet": "a443500bf5864950",
+    "name": "U2($1I113)"
+   }
+  ]
+ },
+ {
+  "type": "warn",
+  "rule": "CHECKFLOATPIN",
+  "primitives": [
+   {
+    "primitiveId": "e3-e93",
+    "sheet": "a443500bf5864950",
+    "designator": "U1",
+    "name": "12"
+   },
+   {
+    "primitiveId": "e100-e1",
+    "sheet": "a443500bf5864950",
+    "designator": "J5",
+    "name": "1"
+   },
+   {
+    "primitiveId": "e262-e45",
+    "sheet": "a443500bf5864950",
+    "designator": "U3",
+    "name": "24"
+   },
+   {
+    "primitiveId": "e262-e77",
+    "sheet": "a443500bf5864950",
+    "designator": "U3",
+    "name": "18"
+   },
+   {
+    "primitiveId": "e262-e81",
+    "sheet": "a443500bf5864950",
+    "designator": "U3",
+    "name": "20"
+   },
+   {
+    "primitiveId": "e262-e85",
+    "sheet": "a443500bf5864950",
+    "designator": "U3",
+    "name": "21"
+   },
+   {
+    "primitiveId": "e262-e89",
+    "sheet": "a443500bf5864950",
+    "designator": "U3",
+    "name": "22"
+   },
+   {
+    "primitiveId": "e262-e93",
+    "sheet": "a443500bf5864950",
+    "designator": "U3",
+    "name": "23"
+   },
+   {
+    "primitiveId": "eebf6e36f9a1b5d4-e25",
+    "sheet": "a443500bf5864950",
+    "designator": "J6",
+    "name": "A8"
+   },
+   {
+    "primitiveId": "eebf6e36f9a1b5d4-e41",
+    "sheet": "a443500bf5864950",
+    "designator": "J6",
+    "name": "B8"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e5",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "1"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e9",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "2"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e41",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "10"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e45",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "11"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e53",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "13"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e57",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "14"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e61",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "15"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e65",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "16"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e77",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "19"
+   },
+   {
+    "primitiveId": "02611c38b20b68ee-e81",
+    "sheet": "a443500bf5864950",
+    "designator": "U5",
+    "name": "20"
+   },
+   {
+    "primitiveId": "d48ced5780959d8c-e33",
+    "sheet": "a443500bf5864950",
+    "designator": "U7",
+    "name": "8"
+   },
+   {
+    "primitiveId": "cb1718577eca0253-e21",
+    "sheet": "a443500bf5864950",
+    "designator": "CN2",
+    "name": "5"
+   },
+   {
+    "primitiveId": "cb1718577eca0253-e25",
+    "sheet": "a443500bf5864950",
+    "designator": "CN2",
+    "name": "6"
+   },
+   {
+    "primitiveId": "b5c693e149571935-e3",
+    "sheet": "a443500bf5864950",
+    "designator": "J2",
+    "name": "5"
+   },
+   {
+    "primitiveId": "b5c693e149571935-e7",
+    "sheet": "a443500bf5864950",
+    "designator": "J2",
+    "name": "4"
+   }
+  ]
+ }
+]
